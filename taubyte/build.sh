@@ -2,4 +2,4 @@
 
 yarn install
 yarn audit fix
-yarn build && mv dist out
+yarn build && mv dist/* /out
